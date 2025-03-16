@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "firebase": "^4.5.0",
+    "firebase": "^10.9.0",
     "uuid": "^3.1.0",
-    "vue": "^2.4.4",
+    "vue": "^3.0.0",
     "vuex": "^2.4.1"
   },
   "devDependencies": {
@@ -22,12 +22,12 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.0",
     "cross-env": "^5.0.5",
-    "css-loader": "^0.28.7",
+    "css-loader": "^7.1.2",
     "file-loader": "^1.1.4",
-    "vue-loader": "^13.0.5",
-    "vue-template-compiler": "^2.4.4",
-    "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.9.1"
+    "vue-loader": "^17.4.2",
+    "vue-template-compiler": "^2.7.16",
+    "webpack": "^5.98.0",
+    "webpack-dev-server": "^5.2.0"
   },
   "packageManager": "npm@10.5.0+sha256.17ca6e08e7633b624e8f870db81a78f46afe119de62bcaf0a7407574139198fc"
 }
